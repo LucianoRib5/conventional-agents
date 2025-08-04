@@ -13,8 +13,8 @@ Este projeto utiliza agentes autônomos com suporte à biblioteca `autogen`.
 1. Crie e ative o ambiente virtual:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 > **Obs.:** No Windows, use `.\.venv\Scriptsctivate` em vez de `source .venv/bin/activate`.
